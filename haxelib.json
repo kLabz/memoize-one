@@ -1,0 +1,14 @@
+{
+  "name": "memoize-one",
+  "description": "Simple memoization (only caches last arguments)",
+  "version": "0.0.0",
+  "releasenote": "Not released yet",
+  "url": "git@github.com:kLabz/memoize-one.git",
+  "license": "MIT",
+  "tags": [],
+  "classPath": "src",
+  "contributors": [
+    "klabz"
+  ]
+}
+
